@@ -1,0 +1,25 @@
+{
+  "name": "linode",
+  "version": "0.0.1",
+  "description": "Official JavaScript Linode API wrapper",
+  "main": "./lib/linode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linode/linode.js.git"
+  },
+  "keywords": [
+    "linode",
+    "cloud",
+    "vps",
+    "api"
+  ],
+  "author": "Abe Massry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Linode/linode.js/issues"
+  },
+  "homepage": "https://github.com/Linode/linode.js#readme"
+}
